@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "npx http-server -c-1 -p 8001 -a localhost"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "packageManager": "yarn@3.4.1"
+}
